@@ -81,7 +81,7 @@ Add the following to your MCP Client configuration (e.g., `cline_mcp_settings.js
       "type": "stdio",
       "command": "node",
       "args": [
-        "/Users/morganlee/Documents/itemit-mcp/build/index.js"
+        "/Users/<user>/Documents/itemit-mcp/build/index.js"
       ],
       "env": {
         "ITEMIT_API_KEY": "<YOUR_API_KEY>",
