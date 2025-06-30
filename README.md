@@ -23,7 +23,11 @@ Built and maintained by the [uminai MCP](https://mcp.umin.ai) team.
 
 ## Overview
 
-itemit-mcp exposes a set of tools for interacting with the [itemit](https://itemit.com) asset management platform via the MCP protocol. It allows you to search, create, and manage assets and locations programmatically, making it easy to integrate itemit with other MCP-enabled systems.
+itemit-mcp exposes a set of tools for interacting with the [itemit](https://itemit.com) asset management platform via the MCP protocol. It allows you to search, create, and manage assets and locations programmatically, making it easy to integrate itemit with other MCP-enabled systems. Following tools available:
+- Get List of items
+- Get item by name search
+- Create item
+- Location Search (With item list on it)
 
 ---
 
