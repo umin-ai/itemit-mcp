@@ -1,16 +1,16 @@
 ---
-name: iterm-mcp
+name: itemit-mcp
 digest: itemit-mcp is an MCP server for asset tracking, providing a bridge between the itemit asset management API and the Model Context Protocol (MCP) ecosystem.
 author: umin-ai
-homepage: [https://github.com/umin-ai/itemit-mcp](https://github.com/umin-ai/itemit-mcp)
+homepage: https://github.com/umin-ai/itemit-mcp
 capabilities:
   prompts: false
   resources: false
   tools: true
 tags:
-  - integration
   - asset-tracking
-icon: [https://avatars.githubusercontent.com/u/678152?v=4](https://ypnshonlpnarlwuocgcw.supabase.co/storage/v1/object/public/umcp-media/mcp-servers/itemit_avatar.png)
+  - integration
+icon: https://ypnshonlpnarlwuocgcw.supabase.co/storage/v1/object/public/umcp-media/mcp-servers/itemit_avatar.png
 createTime: 2025-06-30
 ---
 
